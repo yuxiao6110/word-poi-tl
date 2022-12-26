@@ -1,0 +1,51 @@
+{
+  "md": {
+    "type": "markdown-file",
+    "path": "src/test/resources/basic.md",
+    "style": {
+      "inlineCodeStyle": {
+        "color": "f44336",
+        "fontFamily": "Monaco",
+        "fontSize": 0,
+        "characterSpacing": 0
+      },
+      "highlightStyle": {
+        "showLine": false,
+        "theme": "zenburn",
+        "fontFamily": "Consolas",
+        "fontSize": 9
+      },
+      "quoteStyle": {
+        "indentLeftChars": 1,
+        "leftBorder": {
+          "size": 48,
+          "color": "70ad47",
+          "type": "SINGLE",
+          "space": 8
+        }
+      },
+      "tableBorderStyle": {
+        "size": 1,
+        "color": "BFBFBF",
+        "type": "SINGLE",
+        "space": 0
+      },
+      "tableHeaderStyle": {
+        "height": 0,
+        "repeated": false,
+        "defaultCellStyle": {
+          "backgroundColor": "5b9bd5",
+          "defaultParagraphStyle": {
+            "defaultTextStyle": {
+              "color": "ffffff",
+              "fontSize": 0,
+              "characterSpacing": 0
+            }
+          }
+        }
+      },
+      "showHeaderNumber": true,
+      "imagesDir": ""
+    }
+  }
+}
